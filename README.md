@@ -2,6 +2,8 @@
 
 I am a FullStack developer for Leroy Merlin France. If you want to contact me here is my email : theo.gadiffet@gmail.com.
 
+You can check my School project [here](https://github.com/CESI-Project)
+
 ## 🧰 &nbsp;My development knowledge
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp; 
